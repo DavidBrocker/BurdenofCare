@@ -1,0 +1,26 @@
+gender,age,"Condition - Positive = 1, Negative = 2",# years as caregiver,"Support? Do you feel like you have adequate support from others in your life? 0 = no, 1 = somewhat, 2 = yes",confidence 1 not confident 5 very confident,hd_genWould you say that in general your health is...,hd_physHow many days during the past 30 days was your physical health not good?,hd_menHow many days during the past 30 days was your mental health not good?,"hd_usualDuring the past 30 days, for about how many days did poor physical or mental health keep you from doing your usual activities, such as self-care, work, or recreation?","hd_painDuring the past 30 days, for about how many days did PAIN make it hard for you to do your usual activities, such as selfcare, work, or recreation?","hd_sadDuring the past 30 days, for about how many days have you felt SAD, BLUE, or DEPRESSED?","hd_worriedDuring the past 30 days, for about how many days have you felt WORRIED, TENSE, or ANXIOUS?","hd_sleepDuring the past 30 days, for about how many days have you felt you did NOT get ENOUGH REST or SLEEP?","hd_energyDuring the past 30 days, for about how many days have you felt VERY HEALTHY AND FULL OF ENERGY?",das,paoc,bsfc
+1,48,1,6,1,5,2,0,0,0,0,0,0,15,25,0,34,13
+1,59,2,3,0,4,4,30,30,20,30,30,30,25,0,101,20,29
+1,36,1,3,1,3,3,0,0,0,0,2,2,1,0,0,30,14
+2,54,2,3,0,5,3,15,0,15,30,0,0,30,0,0,36,28
+2,64,1,1,0,4,3,0,0,0,0,0,0,30,0,0,32,21
+1,48,2,2,1,5,4,2,0,1,1,3,2,10,1,0,28,18
+1,36,1,2,1,4,3,1,4,0,1,2,2,4,26,0,43,7
+2,48,1,2,2,4,3,0,2,0,0,0,2,6,24,0,38,7
+1,33,2,3,0,2,4,15,30,20,3,25,20,28,0,83,18,23
+2,35,1,3,0,4,3,5,30,20,4,30,30,20,3,0,18,23
+1,39,1,9,2,4,1,1,3,0,0,3,1,8,20,121,37,18
+2,32,2,5,1,4,3,8,15,8,3,15,25,30,10,0,30,25
+2,61,2,12,1,3,3,2,7,1,1,7,6,5,10,0,35,20
+1,62,1,8,1,4,3,2,5,0,3,15,20,30,5,0,32,19
+2,58,2,2,0,5,3,2,5,0,0,5,5,10,4,0,24,26
+2,31,1,1,2,3,3,10,10,10,10,10,10,10,20,0,27,20
+2,44,2,4,2,5,1,0,0,0,0,0,3,5,5,0,43,8
+2,55,1,2,1,5,2,0,0,0,0,0,0,0,18,105,31,18
+2,60,2,8,2,5,2,0,4,3,0,0,0,10,25,119,45,22
+2,41,1,1,2,4,2,0,0,0,0,0,0,0,25,0,45,6
+2,41,1,2,1,4,2,2,3,2,0,2,4,1,15,119,42,20
+1,41,2,2,1,3,1,0,0,0,0,20,20,15,15,107,22,16
+1,58,1,10,2,5,3,0,0,0,0,5,0,5,25,0,45,10
+2,61,2,8,2,5,3,5,7,7,5,0,2,7,20,0,37,19
+1,33,1,1,2,4,2,0,5,2,0,5,3,20,0,0,33,10
